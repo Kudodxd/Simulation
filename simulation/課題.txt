@@ -1,0 +1,29 @@
+課題1
+nhatminh@MINHKUDO:~/simulation$ gcc kadai1.c -o a
+nhatminh@MINHKUDO:~/simulation$ ./a 
+x[0] = 5
+x[1] = 15
+x[2] = 45
+x[3] = 35
+x[4] = 5
+x[5] = 15
+x[6] = 45
+x[7] = 35
+x[8] = 5
+x[9] = 15
+x[10] = 45
+
+課題2
+nhatminh@MINHKUDO:~/simulation$ gcc kadai2.c -o a
+nhatminh@MINHKUDO:~/simulation$ ./a 
+x[0] = 3
+x[1] = 22
+x[2] = 17
+x[3] = 92
+x[4] = 67
+x[5] = 42
+x[6] = 17
+x[7] = 92
+x[8] = 67
+x[9] = 42
+x[10] = 17
